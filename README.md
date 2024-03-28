@@ -18,3 +18,7 @@ National Technological Olympiad "Automation of Business Processes" (Development 
 
 + Bash (beginner)
 
++ Bitcoin
+
++ DeFi (beginner)
+
