@@ -1,16 +1,15 @@
 ### Hi there 👋
+I'm interested in in DevOps, Bitcoin, Ethereum, financial engineering and cryptography.
 
-<!--
-**gberdyshev/gberdyshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+National Technological Olympiad "Automation of Business Processes" (Development on 1C) 2024 awardee
 
-Here are some ideas to get you started:
+### Skills
++Linux 
++Git
++Jenkins
++Network administration (beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++Python
++1C: Enterprise
++Bash (beginner)
+
