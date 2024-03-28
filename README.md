@@ -5,11 +5,16 @@ National Technological Olympiad "Automation of Business Processes" (Development 
 
 ### Skills
 +Linux 
+
 +Git
+
 +Jenkins
+
 +Network administration (beginner)
 
 +Python
+
 +1C: Enterprise
+
 +Bash (beginner)
 
