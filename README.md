@@ -4,17 +4,17 @@ I'm interested in in DevOps, Bitcoin, Ethereum, financial engineering and crypto
 National Technological Olympiad "Automation of Business Processes" (Development on 1C) 2024 awardee
 
 ### Skills
-+Linux 
++ Linux 
 
-+Git
++ Git
 
-+Jenkins
++ Jenkins
 
-+Network administration (beginner)
++ Network administration (beginner)
 
-+Python
++ Python
 
-+1C: Enterprise
++ 1C: Enterprise
 
-+Bash (beginner)
++ Bash (beginner)
 
